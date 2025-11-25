@@ -1,9 +1,7 @@
-👋 Hi there! I'm Georgia, a Bioinformatician with a master's in Data Science and Information Technologies. 🎓
+👋 Hi, I'm Georgia. I work as a Bioinformatics Engineer at CNAG.
 
-🌿 My background in Biology fuels my drive to apply my knowledge to solve real-world problems.
+My work focuses on developing and maintaining computational workflows for large-scale genomics projects, with emphasis on reproducibility, automation, and scalable data processing.
 
-🔬 As a Bioinformatician, I specialize in analyzing biological data using computational methods, with a keen interest in genomics and transcriptomics. 
+I combine a background in Biology with experience in software engineering, using tools such as Nextflow, Python, R, and cloud platforms to build robust pipelines and support high-throughput analyses.
 
-💻 My goal is to integrate my expertise in biology with coding skills to uncover meaningful insights.
-
-🌱 Currently, I'm exploring various tools and techniques that foster the reproducibility of research. I believe in the importance of transparent and open science practices to accelerate scientific progress. 🚀
+I’m interested in reproducible research practices, open science, and methods that improve the reliability of biological data analysis.
